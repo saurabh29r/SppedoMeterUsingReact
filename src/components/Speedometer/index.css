@@ -1,0 +1,59 @@
+/* Write your CSS here */
+* {
+  margin: 0;
+  padding: 0;
+  border: none;
+}
+
+.bg-container {
+  background-color: #07080c;
+  background-size: cover;
+  min-height: 100vh;
+}
+
+.main-heading {
+  color: white;
+  text-align: center;
+  padding-top: 45px;
+}
+
+.para {
+  color: #cbd5e1;
+  text-align: center;
+  padding-top: 25px;
+}
+
+.image-container {
+  text-align: center;
+}
+
+.image-size {
+  height: 340px;
+  width: 630px;
+}
+.button-container {
+  text-align: center;
+  padding-top: 10px;
+}
+
+.accelerate-button {
+  background-color: #0b69ff;
+  color: #ffffff;
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  outline: none;
+  margin: 10px;
+}
+
+.break-button {
+  background-color: #07080c;
+  color: #cbd5e1;
+  border-color: #cbd5e1;
+  border-style: solid;
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  outline: none;
+  margin: 10px;
+}
